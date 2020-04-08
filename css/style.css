@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto&display=swap");
+
+@import url("components/container.css");
+@import url("components/pictures.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/icons.css");
+
+body{
+	font-size: 14px;
+	font-family: Lora;
+
+}
+
+h1{
+	font-weight: bold;
+	font-family: Roboto;
+  color: gold
+}
+
+a{
+	text-decoration: none
+}
+
+a:hover{
+	color:red;
+}
